@@ -20,7 +20,7 @@ Modern web applications often prioritize developer experience, speed to develop,
 ## Available Tools and Prompts
 
 ### AI-SEO Code Analysis Prompt
-**File**: `prompts/code-seo-audit-prompt.md`
+**File**: [`prompts/code-seo-audit-prompt.md`](prompts/code-seo-audit-prompt.md)
 
 This prompt analyzes your entire codebase to identify technical SEO issues that prevent AI crawlers and search engines from properly reading your content.
 
@@ -34,7 +34,7 @@ This prompt analyzes your entire codebase to identify technical SEO issues that 
 - Internal linking problems
 
 **How to use**:
-1. Copy the entire prompt from `prompts/code-seo-audit-prompt.md`
+1. Copy the entire prompt from [`prompts/code-seo-audit-prompt.md`](prompts/code-seo-audit-prompt.md)
 2. Paste it into your AI assistant (Claude, ChatGPT, etc.)
 3. Provide your project's source code for analysis
 4. Receive a detailed report with specific fixes
