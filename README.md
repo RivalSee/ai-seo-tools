@@ -7,9 +7,9 @@ It is provided by [RivalSee](https://www.rivalsee.com), an AI search visibility 
 
 ## The Problem: Vibe-Coded Sites and AI SEO
 
-Modern web applications often prioritize developer experience, speed to develop, ease of deployment and visual appeal ("vibe-coded") over search engine optimization. This creates significant challenges:
+Modern web applications built with AI coding tools are prioritizing speed to develop and deploy and visual appeal over search engine optimization fundamentals, creating significant challenges:
 
-- **Client-side API calls**: Content is fetched from Supabase, Firebase, or other APIs after page load
+- **Client-side API calls**: Content for many vibe-coding tools is fetched from the client using Supabase, Firebase, or other APIs after page load
 - **Poor semantic structure**: Missing or improper heading hierarchies
 - **Incomplete meta tags**: Missing descriptions, Open Graph tags, or structured data
 - **Non-descriptive URLs**: Query parameters instead of clean, semantic URLs
