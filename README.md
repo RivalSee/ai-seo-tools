@@ -2,7 +2,7 @@
 
 This is an open-source collection of tools and prompts to help developers identify and fix SEO issues in modern web applications, with a focus on AI-driven SEO optimization.  
 
-It is provided by [RivalSee](https://www.rivalsee.com), the leading AI search visibility platform, which helps monitor and boost your brands' mentions in ChatGPT, Claude, and Google AI. 
+It is provided by [RivalSee](https://www.rivalsee.com), a leading AI search visibility platform that monitors and boosts your brands' mentions in ChatGPT, Claude, and Google AI. 
 
 
 ## The Problem: Vibe-Coded Sites and AI SEO
